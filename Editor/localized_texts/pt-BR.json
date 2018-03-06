@@ -1,0 +1,22 @@
+{
+  "lang": "pt-BR",
+  "editor_only": "Propriedades exclusivas do Editor",
+  "language": "Idioma",
+  "gizmos_preview": "Pré-visualizar com Gizmos",
+  "preview_color": "Cor da Pré-Visualização",
+  "preview_size": "Tamanho da Pré-Visualização",
+  "references": "Referências",
+  "map_parent": "Pai do mapa",
+  "tile_selector": "Seletor de Azulejo",
+  "map_dimensions": "Dimensões do Mapa",
+  "width": "Largura",
+  "height": "Altura",
+  "step_by_tile": "Passos por Azulejo",
+  "step_x": "Passo X",
+  "step_y": "Passo Y",
+  "z_step": "Passo Z",
+  "edit": "Editar",
+  "close_edition": "Fechar Edição",
+  "regenerate_map_data": "Regenerar Dados do Mapa",
+  "generate_map": "Gerar Mapa"
+}

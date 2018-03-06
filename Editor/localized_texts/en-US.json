@@ -1,0 +1,22 @@
+{
+  "lang": "en-US",
+  "editor_only": "Editor properties Only",
+  "language": "Language",
+  "gizmos_preview": "Gizmos Preview",
+  "preview_color": "Preview Color",
+  "preview_size": "Preview Size",
+  "references": "References",
+  "map_parent": "Map's parent",
+  "tile_selector": "Tile Selector",
+  "map_dimensions": "Map Dimensions",
+  "width": "Width",
+  "height": "Height",
+  "step_by_tile": "Step by Tile",
+  "step_x": "Step X",
+  "step_y": "Step Y",
+  "z_step": "Z Step",
+  "edit": "Edit",
+  "close_edition": "Close Edition",
+  "regenerate_map_data": "Regenerate Map Data",
+  "generate_map": "Generate Map"
+}
