@@ -1,5 +1,6 @@
 # Azulejista
-Tool for creating tiles in Unity.
+Tool for creating tiles in Unity.  
+![Azulejista (iso) example](https://i.imgur.com/0LVpAdc.png)
 
 ## Introduction
 Azulejista consists of 3 components:  
