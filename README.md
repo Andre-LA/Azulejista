@@ -8,7 +8,7 @@ Azulejista consists of 3 components:
 * and Azulejista Tile Map.
 
 ### Azulejista Tile Maker
-![Azulejista Tile Maker Screen Shot](https://i.imgur.com/mJhWxvn.png)
+![Azulejista Tile Maker Screen Shot](https://i.imgur.com/mJhWxvn.png)  
 Azulejista Tile Maker is who creates the gameobjects of the tiles, it depends on 3 components:  
 * Azulejista Tile Map, which contains the map data;
 * Transform, who will be the father of tiles;
